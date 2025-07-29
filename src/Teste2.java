@@ -9,7 +9,7 @@ import java.util.Scanner;
 
             System.out.print("Tamanho da senha: ");
             int tam = sc.nextInt();
-            sc.nextLine(); // limpar o buffer
+            sc.nextLine();
 
             System.out.print("Incluir letra MAIÚSCULA? (s/n): ");
             String maius = sc.nextLine();
@@ -31,7 +31,7 @@ import java.util.Scanner;
             String copiar = sc.nextLine();
 
             if (copiar.equals("s")) {
-                // Simulação tosca de copiar
+                
                 System.out.println("(copiada!)");
             }
 
