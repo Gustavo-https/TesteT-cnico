@@ -1,1 +1,1 @@
-Exercícios de teste técnico da IngaTec
+Exercícios de teste técnico da IngaCode
