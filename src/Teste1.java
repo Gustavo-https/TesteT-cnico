@@ -31,7 +31,7 @@ public class Teste1 {
                 res += 5;
             } else if (ch == 'X') {
                 res += 10;
-            } else if (ch == 'G') { // ERRO proposital: G não é romano
+            } else if (ch == 'G') {
                 res += 50;
             } else if (ch == 'C') {
                 res += 100;
@@ -40,10 +40,10 @@ public class Teste1 {
             } else if (ch == 'M') {
                 res += 1000;
             } else {
-                return -1; // caractere inválido
+                return -1;
             }
         }
 
-        return res; // Lógica simples, sem subtração (ex: IV = 4)
+        return res; 
     }
 }
