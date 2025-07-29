@@ -15,14 +15,9 @@ Ainda é uma versão simples, não trata casos como IV = 4 ou IX = 9, mas funcio
 
 2️⃣ Gerador de Senhas
 Esse gera senhas aleatórias baseado no que o usuário escolher:
-
 Você diz quantos caracteres quer.
-
 Escolhe se quer letras maiúsculas, minúsculas, números e símbolos.
-
 Ele monta a senha com base nessas escolhas.
-
-Tem uns bugs de propósito (ex: se você não marcar nada, o código quebra 🤫), mas a lógica básica tá ali!
 
 3️⃣ Exercício 3
 Infelizmente não consegui concluir o exercício 3 a tempo 😓
